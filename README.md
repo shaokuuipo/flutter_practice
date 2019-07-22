@@ -1,6 +1,6 @@
 # flutter_practice
 
-A new Flutter application, for practice
+A new Flutter application, for practice.
 
 ## Getting Started
 
